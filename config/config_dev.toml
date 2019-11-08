@@ -1,0 +1,7 @@
+# foo
+[foo]
+    bar = 111
+
+# hello
+[hello]
+    something = [1, 2, 3]
